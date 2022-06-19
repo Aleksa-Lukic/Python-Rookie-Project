@@ -33,6 +33,7 @@ print("\t---- Gitterboxen - LSB Boxen - Paletten - Photovoltaik Module -----")
 
 print("\t12. Gibos Leer:\t\tWERT\t\t35. Gibos Geleert:\t\tWERT")
 print("\t13. Gibos Batterie:\tWERT")
+
 print("\t14. Gibos Handy:\tWERT")
 print("\t15. Gibos Reciever:\tWERT")
 print("\t16. Gibos Router:\tWERT")
@@ -45,6 +46,8 @@ print("\t22. LSB Boxen:\t\tWERT")
 print("\t23. Nachtspeicher:\tWERT")
 print("\t24. Photovoltaik:\tWERT")
 
+for i in range(10**50):
+  print("hihiho")
 
 
 
